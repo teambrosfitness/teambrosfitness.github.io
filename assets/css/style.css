@@ -748,7 +748,7 @@ hr {
 .button:active {
   color: #ffffff;
   background-color: #5065a1;
-  border-color: #5065a1;
+  border-color: ;
   -webkit-transition: all 0.1s linear;
   -moz-transition: all 0.1s linear;
   -ms-transition: all 0.1s linear;
